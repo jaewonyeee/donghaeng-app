@@ -17,7 +17,7 @@ To utilize the review feature, you need to run the local server (json-server). <
 Run <mark>'npx expo start'</mark> (or npm start).
 
 ## Development Environment Compatibility
-The development environment has been confirmed to work on Windows 11 only.<br> It is likely that it will not run on Mac or Linux.
+The development environment has been confirmed to work on Windows 11 only.<br> It is likely that it will not run on Mac or Linux. This app is built using React Native and Expo.
 
 
 ## Development Notes
