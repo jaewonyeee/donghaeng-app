@@ -1,0 +1,22 @@
+export const shrouds = [
+    { id: '1', name: '멧베 7호', material: '15수대마 100%', origin: '중국', production: '한국', remarks: '', src: require('./assets/shrouds/1.png') },
+    { id: '2', name: '멧베 8호', material: '대마 100%', origin: '중국', production: '중국', remarks: '', src: require('./assets/shrouds/2.png') },
+    { id: '3', name: '멧베 9호', material: '대마 100%', origin: '중국', production: '중국', remarks: '', src: require('./assets/shrouds/3.png') },
+    { id: '4', name: '멧베 10호', material: '대마 100%', origin: '중국', production: '중국', remarks: '', src: require('./assets/shrouds/4.png') },
+    { id: '5', name: '멧베 11호', material: '대마 100%', origin: '중국', production: '경북 안동일원', remarks: '', src: require('./assets/shrouds/5.png') },
+    { id: '6', name: '안동포', material: '대마 100%', origin: '한국', production: '경북 안동일원', remarks: '수제직', src: require('./assets/shrouds/6.png') },
+    { id: '7', name: '남해포', material: '대마 100%', origin: '한국', production: '경남 남해일원', remarks: '수제직', src: require('./assets/shrouds/1.png') },
+    { id: '8', name: '천상수의1호', material: '대마 100%', origin: '중국', production: '중국', remarks: '수제직', src: require('./assets/shrouds/2.png') },
+    { id: '9', name: '천상수의2호', material: '대마 100%', origin: '중국', production: '중국', remarks: '수제직', src: require('./assets/shrouds/3.png') },
+    { id: '10', name: '천상수의3호', material: '대마 100%', origin: '중국', production: '중국', remarks: '수제직', src: require('./assets/shrouds/4.png') },
+    { id: '11', name: '천상수의4호', material: '명주50% / 대마50%', origin: '중국', production: '경북 상주시 함창 / 중국', remarks: '기계직', src: require('./assets/shrouds/5.png') },
+    { id: '12', name: '천상수의5호', material: '명주100%', origin: '중국', production: '경북 상주시 함창', remarks: '기계직', src: require('./assets/shrouds/6.png') },
+    { id: '13', name: '천상수의6호', material: '대마 100%', origin: '중국', production: '중국', remarks: '반수공', src: require('./assets/shrouds/1.png') },
+    { id: '14', name: '천상수의7호', material: '15수대마 100%', origin: '중국', production: '한국', remarks: '기계직', src: require('./assets/shrouds/2.png') },
+    { id: '15', name: '천상수의8호', material: '아마100%', origin: '중국', production: '광주 화순일원', remarks: '기계직', src: require('./assets/shrouds/3.png') },
+    { id: '16', name: '천상수의9호', material: '대마 100%', origin: '중국', production: '중국', remarks: '기계직', src: require('./assets/shrouds/4.png') },
+    { id: '17', name: '천상수의10호', material: '저마100%', origin: '중국', production: '중국', remarks: '기계직', src: require('./assets/shrouds/5.png') },
+    { id: '18', name: '천상수의11호', material: '면90% / 레이온10%', origin: '중국', production: '광주 화순일원', remarks: '기계직', src: require('./assets/shrouds/6.png') },
+    { id: '19', name: '천상수의12호', material: '혼용사', origin: '중국', production: '중국', remarks: '기계직', src: require('./assets/shrouds/1.png') },
+  ];
+  
