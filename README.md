@@ -11,10 +11,10 @@
 
 # How to run<br>
 1. Run Local Server using ngrok<br>
-To utilize the review feature, you need to run the local server (json-server). <br>Open a separate terminal and execute the custom command **'npm run ngrok-server'.** <br>
+To utilize the review feature, you need to run the local server (json-server). <br>Open a separate terminal and execute the custom command <mark>'npm run ngrok-server'.</mark> <br>
 
 2. Run Expo<br>
-Run **'npx expo start'** (or npm start).
+Run <mark>'npx expo start'</mark> (or npm start).
 
 ## Development Environment Compatibility
 The development environment has been confirmed to work on Windows 11 only.<br> It is likely that it will not run on Mac or Linux.
