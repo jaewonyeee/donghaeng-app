@@ -8,7 +8,7 @@
 </p>
 
 ### An app that helps individuals prepare for funerals without the need to sign up for funeral service products from funeral companies.
-[more in detail](https://sites.google.com/view/donghaengapp?usp=sharing)
+[more in detail](https://sites.google.com/view/donghaeng-app/personalized-funeral-planning-service-app)
 
 
 
