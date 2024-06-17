@@ -1,5 +1,5 @@
 <p align='center'>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:EEFF00,100:e3d7c7&height=200&section=header&text=donghaeng&fontSize=80&animation=fadeIn&fontAlignY=38&" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:EEFF00,100:e3d7c7&height=230&section=header&text=donghaeng&fontSize=70&animation=fadeIn&fontAlignY=30&desc=Professor%20Yoonji%20Kim%20/%20Member%20Serin%20Kim%20,%20Jaewon%20Lee%20,%20Seungwoo%20Jung&descAlignY=55&descAlign=50" />
 </p>
 
 # What is donghaeng?
@@ -10,10 +10,8 @@
 ### An app that helps individuals prepare for funerals without the need to sign up for funeral service products from funeral companies.
 [more in detail](https://sites.google.com/view/donghaengapp?usp=sharing)
 
-2024-1 Mobile Computing Class<br>
-Instructor: Professor **Yoonji Kim**<br>
-Team: Graduation Please<br>
-Members: **Serin Kim / Jaewon Lee / Seungwoo Jung**<br>
+
+
 
 # How to run<br>
 **1. Run Local Server using ngrok<br>**
