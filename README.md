@@ -8,6 +8,10 @@
 ### An app that helps individuals prepare for funerals without the need to sign up for funeral service products from funeral companies.
 [more in detail](https://sites.google.com/view/donghaengapp?usp=sharing)
 
+2024-1 Mobile Computing Class<br>
+Instructor: Professor Yoonji Kim<br>
+Team: Graduation Please<br>
+Members: Serin Kim / Jaewon Lee / Seungwoo Jung<br>
 
 # How to run<br>
 **1. Run Local Server using ngrok<br>**
