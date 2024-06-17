@@ -37,3 +37,6 @@ Due to conflicts with the image-related module, this feature is currently unavai
 Previously, entering the detailed menu after selecting 'Start Funeral' from the home menu involved navigating through over ten screens, making development time-consuming.<br> We have consolidated the simple selection options into a single screen. <br>Here’s a summary of the revised logic from the user's perspective:
 Home -> Start Funeral -> Select Funeral Hall -> Choose Room within the Hall -> Select Funeral Items (mourning clothes, floral decorations, meal menu) -> Set Crematorium -> Select Cremation Items (coffin, shroud, additional funeral items) -> My Funeral Summary (navigate to modify funeral and cremation items/complete funeral preparations).<br>
 The main changes include the removal of the funeral type selection and consolidation of items like mourning clothes, floral decorations, and meal menu into single screens, making the process more straightforward for the user.
+
+4. (*extra credit) The user-sensor data was used for the automatic funeral home selection function.
+   
