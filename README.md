@@ -1,5 +1,7 @@
-﻿
-![header](https://capsule-render.vercel.app/api?type=waving&color=color=0:EEFF00,100:e3d7c7&height=150&section=header&text=&fontSize=90)
+<p align='center'>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:EEFF00,100:e3d7c7&height=200&section=header&text=donghaeng&fontSize=80&animation=fadeIn&fontAlignY=38&" />
+</p>
+
 # What is donghaeng?
 <p align="center">
 <img src="https://github.com/jaewonyeee/donghaeng-app/assets/129675209/0cc863ad-813c-4bfe-adb4-a05c4a2acb8e">
