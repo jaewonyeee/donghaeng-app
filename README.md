@@ -1,5 +1,5 @@
-﻿# donghaeng-app
-
+﻿
+![header](https://capsule-render.vercel.app/api?type=waving&color=color=0:EEFF00,100:e3d7c7&height=150&section=header&text=&fontSize=90)
 # What is donghaeng?
 <p align="center">
 <img src="https://github.com/jaewonyeee/donghaeng-app/assets/129675209/0cc863ad-813c-4bfe-adb4-a05c4a2acb8e">
@@ -9,9 +9,9 @@
 [more in detail](https://sites.google.com/view/donghaengapp?usp=sharing)
 
 2024-1 Mobile Computing Class<br>
-Instructor: Professor Yoonji Kim<br>
+Instructor: Professor **Yoonji Kim**<br>
 Team: Graduation Please<br>
-Members: Serin Kim / Jaewon Lee / Seungwoo Jung<br>
+Members: **Serin Kim / Jaewon Lee / Seungwoo Jung**<br>
 
 # How to run<br>
 **1. Run Local Server using ngrok<br>**
