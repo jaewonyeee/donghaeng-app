@@ -11,7 +11,7 @@
 
 # How to run<br>
 **1. Run Local Server using ngrok<br>**
-1-1. Run the following command to add your authtoken to the default ngrok.yml configuration file. <br><mark>'ngrok config add-authtoken [get your token](https://dashboard.ngrok.com/get-started/setup/windows)"'</mark><br> To use the ngork, you must first sign up and get a token issued. <br>
+1-1. Run the following command to add your authtoken to the default ngrok.yml configuration file. <br><mark>'ngrok config add-authtoken [get your token](https://dashboard.ngrok.com/get-started/setup/windows)'</mark><br> To use the ngork, you must first sign up and get a token issued. <br>
 1-2. To utilize the review feature, you need to run the local server (json-server). <br>Open a separate terminal and execute the custom command <mark>'npm run ngrok-server'.</mark> <br>
 
 **2. Run Expo<br>**
